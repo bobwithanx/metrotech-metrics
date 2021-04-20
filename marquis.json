@@ -1,0 +1,14 @@
+{
+	"persistent-apps": [
+		"/System/Applications/Launchpad.app",
+		"/Applications/Safari.app",
+		"/Applications/Google Chrome.app", 
+		"/Applications/Microsoft Word.app",
+		"/Applications/Microsoft Excel.app",
+		"/Applications/Microsoft PowerPoint.app",
+	],
+	"persistent-others": [
+		"~/Downloads",
+		"/Applications"
+	]
+}
